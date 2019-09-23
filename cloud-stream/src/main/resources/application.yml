@@ -1,0 +1,12 @@
+
+netty:
+  server:
+    port: 9999
+
+aiot:
+  edge:
+    sense:
+      uploaddirectory: /home/appuser/sensor/uploaddata/ #/home/appuser/sensor/uploaddata/  #d:/home/appuser/sensor/uploaddata/
+    heartbeat:
+      uploaddirectory: /home/appuser/sensor/uploadheart/
+
